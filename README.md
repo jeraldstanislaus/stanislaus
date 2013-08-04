@@ -1,4 +1,4 @@
 stanislaus
 ==========
 
-Thisis jerald and i m the web designer
+This is jerald and i m the web designer.
